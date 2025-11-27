@@ -23,8 +23,6 @@ This repository provides an introductory Python programming course designed for 
 
 ## License
 
-## License
-
 © 2024 Nil Munté Guerrero. All Rights Reserved.
 
 Unauthorized reproduction, distribution, or use by instructors not affiliated with the course is strictly prohibited. This material may be viewed publicly but may **not** be used for teaching, commercial purposes, or shared with individuals not enrolled in the course.  
